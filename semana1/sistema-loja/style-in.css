@@ -1,0 +1,15 @@
+h1 {color: blueviolet;
+}
+p {color: blueviolet;
+}
+.texto-primario {
+    color:#0fc71ef3;
+    margin: 2%;
+}
+
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif  ;
+    background-color: white;
+   margin:1% 1%;
+   padding: 0% 1% 0% 1%;
+}

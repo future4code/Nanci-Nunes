@@ -1,0 +1,16 @@
+
+p {
+    color: purple;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+title {
+    color: red;
+}
+
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif  ;
+    background-color: white;
+   margin:1% 1%;
+   padding: 0% 1% 0% 1%;
+}

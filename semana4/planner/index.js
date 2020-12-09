@@ -16,6 +16,9 @@ e armazene em uma variável.
 6 - Limpe o campo da tarefa. Você deve acessar o elemento do HTML da mesma forma que você acessou para capturar seu valor e 
 trocar para que não apareça nada no seu valor.
 
+ ggfdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh
+ jghjgh
 
 sorry, não entendi. vou assistir a aula novamente - embora tenho a sensação de estar muito atrasada pois não estou assimilando 
 como os demais - e tentar entender e fazer exercícios*/
+
